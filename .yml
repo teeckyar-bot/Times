@@ -1,0 +1,2 @@
+- name: Setup Auto
+  uses: auto-it/setup-auto@v1.0.0
